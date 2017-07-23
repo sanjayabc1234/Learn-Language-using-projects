@@ -1,2 +1,7 @@
 Few More ideas for projects:
+
 1. http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list
+
+2. Important Books:
+  a. The Programmers Idea Book – 200 Software Project Ideas and Tips to Developing Them
+  b. The Coding Survival Guide – Habits and Pitfalls
